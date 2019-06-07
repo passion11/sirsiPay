@@ -1,0 +1,48 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.kejing.feepaid.sirsi.config.SirsiFeepaidRestConf",
+      "name": "sirsi.feepaid",
+      "type": "com.kejing.feepaid.sirsi.config.SirsiFeepaidRestConf"
+    },
+    {
+      "sourceType": "com.kejing.feepaid.sirsi.config.DataSourceConfig",
+      "name": "spring.datasource.primary",
+      "sourceMethod": "public javax.sql.DataSource primaryDataSource() ",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.kejing.feepaid.sirsi.config.SirsiFeepaidRestConf",
+      "name": "sirsi.feepaid.badlimit",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.kejing.feepaid.sirsi.config.SirsiFeepaidRestConf",
+      "name": "sirsi.feepaid.casherid",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kejing.feepaid.sirsi.config.SirsiFeepaidRestConf",
+      "name": "sirsi.feepaid.cron",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kejing.feepaid.sirsi.config.SirsiFeepaidRestConf",
+      "name": "sirsi.feepaid.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kejing.feepaid.sirsi.config.SirsiFeepaidRestConf",
+      "name": "sirsi.feepaid.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.kejing.feepaid.sirsi.config.SirsiFeepaidRestConf",
+      "name": "sirsi.feepaid.username",
+      "type": "java.lang.String"
+    }
+  ]
+}

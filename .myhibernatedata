@@ -1,0 +1,20 @@
+#MyEclipse Hibernate Properties
+#Wed Jan 02 19:46:06 CST 2019
+genBasicCompId=true
+sessionFactoryName=com.kejing.feepaid.sirsi.dao.module.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=true
+keyGenerator=
+genVersionTag=false
+sessionFactoryId=sessionFactory
+basePersistenceClass=
+genAnnotations=true
+reSettingsFile=
+configFile=/sirsifeepaid Maven Webapp/<No configs found>
+createConfigFile=true
